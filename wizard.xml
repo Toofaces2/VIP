@@ -1,17 +1,17 @@
 <builds>
  <build>
- <name>[COLOR white]JokerTV VIP Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <url>https://jokertv.ucoz.club/VIP.zip</url>
- <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
- <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
- <description>Powered by JokerTV aka Toofaces2!</description>
-</build>
- <build>
- <name>[COLOR dodgerblue]JokerTV VIP Edition Mirror[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>1.2</version>
- <url>https://www.transfernow.net/d/start?utm_source=20260609ZBLTjKEw&utm_term=K5pgjD</url>
- <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
- <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
- <description>Powered by JokerTV aka Toofaces2. Updated 09/06/26</description>
+  <name>[COLOR white]JokerTV VIP Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+  <url>https://jokertv.ucoz.club/VIP.zip</url>
+  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+  <description>Powered by JokerTV aka Toofaces2</description>
+ </build>
+  <build>
+  <name>[COLOR dodgerblue]JokerTV VIP Edition Mirror[COLOR] - ([COLOR green]Online[COLOR])</name>
+  <version>1.2</version>
+  <url>https://transfernow.net/d/start?utm_source=20260609ZBLTjKEw&utm_term=K5pgjD</url>
+  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+  <description>Powered by JokerTV aka Toofaces2. Updated 09/06/26</description>
  </build>
 </builds>
