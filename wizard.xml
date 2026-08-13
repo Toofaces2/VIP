@@ -6,4 +6,12 @@
   <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
   <description>Powered by JokerTV aka Toofaces2</description>
  </build>
+<builds>
+ <build>
+  <name>[COLOR white]JokerTV VIP Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+  <url>https://archive.org/download/kodi123_202608/kodi123.zip</url>
+  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+  <description>Powered by JokerTV aka Toofaces2</description>
+ </build>
 </builds>
